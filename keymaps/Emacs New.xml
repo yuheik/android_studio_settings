@@ -1,4 +1,4 @@
-<keymap version="1" name="Emacs copy" parent="Emacs">
+<keymap version="1" name="Emacs New" parent="Emacs">
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="alt c" />
     <keyboard-shortcut first-keystroke="escape" second-keystroke="w" />
