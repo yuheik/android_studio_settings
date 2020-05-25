@@ -238,6 +238,7 @@
     <keyboard-shortcut first-keystroke="alt period" />
     <mouse-shortcut keystroke="control button1" />
     <keyboard-shortcut first-keystroke="meta t" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="t" />
   </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="shift meta t" />
@@ -272,7 +273,6 @@
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
   <action id="NextTab">
-    <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="n" />
     <keyboard-shortcut first-keystroke="ctrl meta close_bracket" />
     <keyboard-shortcut first-keystroke="alt tab" />
@@ -297,7 +297,6 @@
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="quote" />
   </action>
   <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="p" />
     <keyboard-shortcut first-keystroke="ctrl meta open_bracket" />
     <keyboard-shortcut first-keystroke="shift alt tab" />
