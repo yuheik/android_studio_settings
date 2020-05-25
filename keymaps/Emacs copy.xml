@@ -133,6 +133,9 @@
     <keyboard-shortcut first-keystroke="ctrl meta a" />
   </action>
   <action id="EditorContextInfo" />
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="minus" />
+  </action>
   <action id="EditorDeleteToWordEnd">
     <keyboard-shortcut first-keystroke="ctrl delete" />
     <keyboard-shortcut first-keystroke="meta d" />
@@ -152,6 +155,9 @@
   <action id="EditorForwardParagraph">
     <keyboard-shortcut first-keystroke="ctrl down" />
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="shift add" />
   </action>
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="home" />
@@ -180,6 +186,9 @@
     <keyboard-shortcut first-keystroke="alt b" />
     <keyboard-shortcut first-keystroke="escape" second-keystroke="ctrl b" />
     <keyboard-shortcut first-keystroke="meta b" />
+  </action>
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="shift equals" />
   </action>
   <action id="EditorScrollToCenter">
     <keyboard-shortcut first-keystroke="ctrl l" />
