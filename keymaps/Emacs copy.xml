@@ -277,6 +277,7 @@
   <action id="NextOccurence">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="shift quote" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="NextParameter">
     <keyboard-shortcut first-keystroke="tab" />
@@ -305,6 +306,7 @@
   <action id="PreviousOccurence">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="quote" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="p" />
