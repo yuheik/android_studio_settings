@@ -209,6 +209,7 @@
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
   <action id="FileChooser.NewFolder" />
+  <action id="FileChooser.TogglePathShowing" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
     <keyboard-shortcut first-keystroke="alt f3" />
