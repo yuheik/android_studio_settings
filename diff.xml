@@ -1,18 +1,10 @@
 <application>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
-      <entry key="ChangesView">
+      <entry key="TestsFiledAssertions">
         <PlaceSettings>
-          <option name="EXPAND_BY_DEFAULT" value="false" />
+          <option name="HIGHLIGHTING_LEVEL" value="ADVANCED" />
         </PlaceSettings>
-      </entry>
-      <entry key="CommitDialog">
-        <PlaceSettings>
-          <option name="EXPAND_BY_DEFAULT" value="false" />
-        </PlaceSettings>
-      </entry>
-      <entry key="Default">
-        <PlaceSettings />
       </entry>
     </option>
   </component>
