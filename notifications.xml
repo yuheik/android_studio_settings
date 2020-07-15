@@ -1,9 +1,6 @@
 <application>
-  <component name="NotificationConfiguration">
+  <component name="NotificationConfiguration" showBalloons="false">
     <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
-    <notification groupId="Gradle Build (Balloon)" shouldReadAloud="true" />
-    <notification groupId="Gradle Build (Logging)" displayType="NONE" shouldReadAloud="true" />
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
-    <notification groupId="Test Results: Run" displayType="TOOL_WINDOW" shouldReadAloud="true" />
   </component>
 </application>
