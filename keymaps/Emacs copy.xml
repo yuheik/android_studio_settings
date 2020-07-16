@@ -256,11 +256,11 @@
   </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f2" />
-    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="shift semicolon" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="semicolon" />
   </action>
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="shift f2" />
-    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="semicolon" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="l" />
   </action>
   <action id="GotoSuperMethod" />
   <action id="HideActiveWindow">
