@@ -254,6 +254,9 @@
     <keyboard-shortcut first-keystroke="shift meta t" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="i" />
   </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="semicolon" />
