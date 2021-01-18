@@ -251,8 +251,8 @@
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="t" />
   </action>
   <action id="GotoImplementation">
-    <keyboard-shortcut first-keystroke="shift meta t" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="i" />
+    <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta g" />
