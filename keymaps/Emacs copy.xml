@@ -249,6 +249,7 @@
     <mouse-shortcut keystroke="control button1" />
     <keyboard-shortcut first-keystroke="meta t" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="t" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="d" />
   </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="i" />
