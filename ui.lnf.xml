@@ -4,4 +4,7 @@
     <option name="UI_SHOW_FILES" value="false" />
     <option name="UI_COMPACT_EMPTY_MIDDLE_PACKAGES" value="false" />
   </component>
+  <component name="UISettings">
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
+  </component>
 </application>
