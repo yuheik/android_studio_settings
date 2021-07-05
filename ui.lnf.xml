@@ -2,7 +2,10 @@
   <component name="DependencyUISettings">
     <option name="UI_FLATTEN_PACKAGES" value="false" />
     <option name="UI_SHOW_FILES" value="false" />
+    <option name="UI_FILTER_LEGALS" value="true" />
+    <option name="UI_GROUP_BY_SCOPE_TYPE" value="false" />
     <option name="UI_COMPACT_EMPTY_MIDDLE_PACKAGES" value="false" />
+    <option name="SCOPE_TYPE" value="file" />
   </component>
   <component name="UISettings">
     <option name="IDE_AA_TYPE" value="Greyscale" />
