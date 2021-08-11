@@ -4,6 +4,8 @@
       <map>
         <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="mdrplugin-app/src/main/res/layout/activity_your_headphones_settings.xml" value="0.2504528985507246" />
+        <entry key="mdrplugin-app/src/main/res/layout/nsl_empty_screen_fragment.xml" value="0.20652173913043478" />
+        <entry key="mdrplugin-app/src/main/res/layout/nsl_first_screen_fragment.xml" value="0.1743659420289855" />
         <entry key="mdrplugin-app/src/main/res/layout/your_headphones_top_fragment.xml" value="0.26927083333333335" />
       </map>
     </option>
