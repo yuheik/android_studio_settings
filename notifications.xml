@@ -1,7 +1,13 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Build Log" playSound="true" />
     <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
+    <notification groupId="Compiler" playSound="true" />
     <notification groupId="Database Inspector" displayType="NONE" shouldLog="false" />
+    <notification groupId="Execution" playSound="true" />
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
+    <notification groupId="Run Anything" playSound="true" />
+    <notification groupId="Test Notification" playSound="true" />
+    <notification groupId="Test Results: Run" playSound="true" />
   </component>
 </application>
