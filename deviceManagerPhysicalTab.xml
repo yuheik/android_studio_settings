@@ -12,6 +12,18 @@
         <target value="Android 9.0" />
         <api value="28" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="001045c581000141" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-15T03:33:08.797437Z" />
+        <name value="Sony NW-ZX500Series" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
