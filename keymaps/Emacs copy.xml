@@ -266,7 +266,9 @@
     <keyboard-shortcut first-keystroke="shift f2" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="l" />
   </action>
-  <action id="GotoSuperMethod" />
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl l" />
+  </action>
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
