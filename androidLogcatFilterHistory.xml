@@ -4,6 +4,15 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine HPC_SL" />
+        <option value="package:mine HPC_" />
+        <option value="package:mine " />
+        <option value="HPC_SL" />
+        <option value="onAppStart" />
+        <option value="MdrAppli" />
+        <option value="Connection" />
+        <option value="package:mine package:com.sony.songpal.mdr con" />
+        <option value="package:mine package:com.sony.songpal.mdr" />
+        <option value="package:mine Conn" />
       </list>
     </option>
   </component>
