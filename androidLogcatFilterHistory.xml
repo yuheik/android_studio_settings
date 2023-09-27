@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine HPC_SL" />
+    <option name="mostRecentlyUsed" value="package:mine chatbot" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine chatbot" />
         <option value="package:mine HPC_SL" />
         <option value="package:mine HPC_" />
         <option value="package:mine " />
