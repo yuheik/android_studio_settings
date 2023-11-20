@@ -4,6 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine chatbot" />
+        <option value="&quot;chatbot|httpclient&quot;" />
+        <option value="package:mine &quot;chatbot|httpclient&quot;" />
         <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine Chatbot" />
