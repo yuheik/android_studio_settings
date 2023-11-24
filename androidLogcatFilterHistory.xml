@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine chatbot" />
+    <option name="mostRecentlyUsed" value="package:mine HPC_SL" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine HPC_SL" />
         <option value="package:mine chatbot" />
         <option value="&quot;chatbot|httpclient&quot;" />
         <option value="package:mine &quot;chatbot|httpclient&quot;" />
@@ -14,7 +15,6 @@
         <option value="package:mine [chatbot\|httpclient" />
         <option value="package:mine chatbot httpClient" />
         <option value="package:mine httpclient" />
-        <option value="package:mine HPC_SL" />
         <option value="package:mine HPC_" />
         <option value="HPC_SL" />
         <option value="onAppStart" />
