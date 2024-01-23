@@ -1,14 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine chatbot" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine HPC_SL" />
         <option value="package:mine chatbot" />
         <option value="&quot;chatbot|httpclient&quot;" />
         <option value="package:mine &quot;chatbot|httpclient&quot;" />
         <option value="package:mine" />
-        <option value="package:mine " />
         <option value="package:mine Chatbot" />
         <option value="package:mine ChatbotPresenter" />
         <option value="chatbot" />
