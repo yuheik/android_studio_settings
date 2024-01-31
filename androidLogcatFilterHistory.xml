@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:ERROR " />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
+        <option value="package:mine illegal" />
         <option value="package:mine level:ERROR " />
         <option value="package:mine " />
         <option value="package:mine Illegal" />
@@ -21,8 +23,6 @@
         <option value="HPC_SL" />
         <option value="onAppStart" />
         <option value="MdrAppli" />
-        <option value="Connection" />
-        <option value="package:mine package:com.sony.songpal.mdr con" />
       </list>
     </option>
   </component>
